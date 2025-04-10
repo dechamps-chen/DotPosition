@@ -7,6 +7,7 @@
         "InternalName": "DotPosition",
         "AssemblyVersion": "0.0.0.1",
         "RepoUrl": "https://github.com/dechamps-chen/DotPosition",
+        "IconUrl": "https://raw.githubusercontent.com/dechamps-chen/DotPosition/master/Data/icon.png",
         "ApplicableVersion": "any",
         "DownloadLinkInstall": "https://github.com/dechamps-chen/DotPosition/releases/latest/download/latest.zip",
         "IsHide": false,
