@@ -1,0 +1,15 @@
+{
+  "Author": "dechamps-chen",
+  "Name": "Dot Position",
+  "Punchline": "\"See exactly where you stand.\"",
+  "Description": "Dot Position adds a simple, customizable marker under your character to show your precise hitbox location.",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "plugin",
+    "dot",
+    "position",
+    "hitbox",
+    "character",
+    "location"
+  ]
+}
