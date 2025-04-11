@@ -1,18 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Project Sdk="Dalamud.NET.Sdk/12.0.2">
   <PropertyGroup>
-    <Version>1.0.0</Version>
-    <AssemblyName>DotPosition</AssemblyName>
-    <RootNamespace>DotPosition</RootNamespace>
+	<TargetFramework>net9.0</TargetFramework>
+	<Authors>dechamps-chen</Authors>
+    <Version>1.0.0.1</Version>
     <Description>Shows your exact hitbox position with a customizable marker</Description>
     <PackageProjectUrl>https://github.com/dechamps-chen/DotPosition</PackageProjectUrl>
     <PackageLicenseExpression>AGPL-3.0-or-later</PackageLicenseExpression>
-    <IsPackable>true</IsPackable>
-    <TargetFramework>net9.0-windows7.0</TargetFramework>
   </PropertyGroup>
-
-  <ItemGroup>
-  <Content Include="..\Data\icon.png" CopyToOutputDirectory="PreserveNewest" />
-  <Content Include="..\Data\screenshot.png" CopyToOutputDirectory="PreserveNewest" />
-</ItemGroup>
 </Project>
