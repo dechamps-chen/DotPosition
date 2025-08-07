@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Project Sdk="Dalamud.NET.Sdk/12.0.2">
+<Project Sdk="Dalamud.NET.Sdk/13.0.0">
   <PropertyGroup>
 	<TargetFramework>net9.0</TargetFramework>
 	<Authors>dechamps-chen</Authors>
-    <Version>1.0.0.1</Version>
+    <Version>1.0.0.2</Version>
     <Description>Shows your exact hitbox position with a customizable marker</Description>
     <PackageProjectUrl>https://github.com/dechamps-chen/DotPosition</PackageProjectUrl>
     <PackageLicenseExpression>AGPL-3.0-or-later</PackageLicenseExpression>

@@ -2,7 +2,7 @@ using System;
 using System.Numerics;
 using Dalamud.Interface.Colors;
 using Dalamud.Interface.Windowing;
-using ImGuiNET;
+using Dalamud.Bindings.ImGui;
 
 namespace DotPosition.Windows;
 
