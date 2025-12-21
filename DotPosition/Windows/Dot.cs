@@ -19,7 +19,7 @@ namespace DotPosition.Windows
         {
             if (!_plugin.Configuration.IsPluginEnabled) return;
 
-            var player = Plugin.ClientState.LocalPlayer;
+            var player = Plugin.ObjectTable.LocalPlayer;
             if (player == null) return;
 
 
